@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" skipped="0" tests="2" name="Acceptance" time="26.765" errors="0">
+<testcase classname="Acceptance.TC 001 LoginLogout" name="TC_001 Login Logout Functionality" time="13.354">
+</testcase>
+<testcase classname="Acceptance.TC 002 Signin" name="TC_001 Login Logout Functionality" time="9.508">
+</testcase>
+</testsuite>
